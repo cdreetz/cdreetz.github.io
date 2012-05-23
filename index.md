@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Personal Blog
-tagline: Faking Intelligence
+title: Anthony Rios
+tagline: Personal Blog
 ---
 {% include JB/setup %}
 
