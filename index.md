@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anthony Rios
-tagline: Personal Blog
+tagline: Home
 ---
 {% include JB/setup %}
 
