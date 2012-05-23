@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Anthony Rios
-tagline: Home
+title: Home
+group: navigation
 ---
 {% include JB/setup %}
 
