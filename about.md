@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "About"
-description: ""
-group: navigation
+title: About
+permalink: /about/
 ---
-{% include JB/setup %}
-This is about. test test
+*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+
+* Author: Camille Diez
+* Github: http://github.com/diezcami
+* Portfolio: http://diezcami.github.io
