@@ -7,3 +7,4 @@ tags: []
 ---
 {% include JB/setup %}
 Test
+test2
