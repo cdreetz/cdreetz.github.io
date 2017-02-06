@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 ## Peer-reviewed Journal Publications
 1. R. Kavuluru, A. Rios, and Y. Lu. An Empirical Evaluation of Supervised Learning Approaches in Assigning Diagnosis Codes to Electronic Medical Records. Artificial Intelligence in Medicine, Volume 65, Issue 2; 2015 May.
+
 ## Peer-reviewed Conference Publications
 2.  R. Kavuluru and **A. Rios**. Automatic Assignment of Non-Leaf Medical Subject Headings to Biomedical Articles. Paper to be presented at: AMIA 2015. Proceedings of the American Medical Informatics Association annual symposium; 2015 November 14-18; San Francisco, CA.
 3.  **A. Rios** and R. Kavuluru. Analyzing the Moving Parts of a Large-Scale Multi-Label Text Classication Pipeline: Experiences in Indexing Biomedical Articles. Paper presented at: ICHI 2015. Proceedings of the IEEE International Conference on Healthcare Informatics; 2015 Oct 21-23; Dallas, TX. (**Best Paper Finalist**, *the system described in the paper also placed 2nd in the 2nd batch of BioASQ 2015*)
