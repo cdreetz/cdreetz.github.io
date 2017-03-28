@@ -20,7 +20,7 @@ permalink: /publications/
 
 ## Peer-reviewed Workshop Publications
 <ol start="7">
-<li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL.</li>
+<li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
 </ol>
 
 ## Peer-reviewed Posters
