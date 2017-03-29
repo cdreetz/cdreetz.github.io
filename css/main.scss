@@ -3,7 +3,12 @@
 ---
 @charset "utf-8";
 
-
+.coolBorder {
+      border: 2px solid black;
+      padding: 50px;
+      outline: black solid 5px;
+      outline-offset: 5px;
+    }
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
