@@ -4,10 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-# Biomedical Applications of Natural Language Processing
-<div class='pull-right' markdown="1">
+<h2>Biomedical Applications of Natural Language Processing</h2>
+<div style="overflow: hidden;margin-bottom:10px;" markdown="1">
+<div style="float: left;">
 <img src="/images/biomedicalNLP.png" width="325" border="1" hspace="5">
+</div>
+<div style="float: left;text-align: left;margin-left:10px">
 this is a test
+</div>
 </div>
 
 ### Relevant Publications
@@ -19,10 +23,14 @@ this is a test
 
 -------
 
-# Large-scale Classification
-<div align="left" markdown="1">
+<h2 style="margin-top: 10px;">Large-scale Classification</h2>
+<div style="overflow: hidden;margin-bottom:10px;" markdown="1">
+<div style="float: left;">
 <img src="/images/relationdiagram.png" width="425" border="1" hspace="5" align="center">
-test
+</div>
+<div style="float: left;text-align: left;margin-left:10px">
+this is a test
+</div>
 </div>
 
 ### Relevant Publications
@@ -32,5 +40,6 @@ test
 
 -------
 
-# Machine Learning and Natural Language Processing
+<h2 style="margin-top: 10px;">Machine Learning and Natural Language Processing</h2>
+
 ### Relevant Publications
