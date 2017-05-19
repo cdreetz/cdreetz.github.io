@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 ## Peer-reviewed Journal Publications
 <ol>
+<li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (JBI); 2017 February 1</li>
 <li>R. Kavuluru, <b>A. Rios</b>, and Y. Lu. An Empirical Evaluation of Supervised Learning Approaches in Assigning Diagnosis Codes to Electronic Medical Records. Artificial Intelligence in Medicine, Volume 65, Issue 2; 2015 May. [<a href="https://pdfs.semanticscholar.org/6a4b/00b70a37f577a99640fc643c2177675db1fd.pdf">pdf</a>]</li>
 </ol>
 
@@ -30,7 +31,6 @@ permalink: /publications/
 
 ## Work in Progress
 <ol start="9">
-<li><b>A. Rios</b>, R. Kavuluru. Improved Ordinal Convolutional Neural Networks for RDoc Classification. Invited to submit to: Journal of Biomedical Informatics (JBI); 2017 February 1</li>
 <li><b>A. Rios</b> and R. Kavuluru. Transfer Learning with Convolutional Neural Networks for Biomedical Text Classification: From MeSH Heading Prediction to Diagnosis Code Assignment. To be submitted to: Artificial Intelligence in Medicine (AIIM)</li>
 <li>R. Kavuluru and <b>A. Rios</b>. Extracting Drug-Drug Interactions from Text using Recurrent Neural Networks. <i>In Progress</i></li>
 </ol>
