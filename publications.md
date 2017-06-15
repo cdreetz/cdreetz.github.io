@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Peer-reviewed Journal Publications
 <ol>
-<li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (JBI); 2017 February 1</li>
+<li><b>A. Rios</b>, and R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (2017). [<a href="http://www.sciencedirect.com/science/article/pii/S153204641730103X">link</a>]</li>
 <li>R. Kavuluru, <b>A. Rios</b>, and Y. Lu. An Empirical Evaluation of Supervised Learning Approaches in Assigning Diagnosis Codes to Electronic Medical Records. Artificial Intelligence in Medicine, Volume 65, Issue 2; 2015 May. [<a href="https://pdfs.semanticscholar.org/6a4b/00b70a37f577a99640fc643c2177675db1fd.pdf">pdf</a>]</li>
 </ol>
 
