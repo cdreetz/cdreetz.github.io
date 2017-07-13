@@ -30,7 +30,7 @@ permalink: /publications/
 </ol>
 
 ## Work in Progress
-<ol start="9">
+<ol start="10">
 <li><b>A. Rios</b> and R. Kavuluru. Transfer Learning with Convolutional Neural Networks for Biomedical Text Classification: From MeSH Heading Prediction to Diagnosis Code Assignment. To be submitted to: Artificial Intelligence in Medicine (AIIM)</li>
 <li>R. Kavuluru and <b>A. Rios</b>. Extracting Drug-Drug Interactions from Text using Recurrent Neural Networks. <i>In Progress</i></li>
 </ol>
