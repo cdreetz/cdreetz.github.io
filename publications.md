@@ -10,7 +10,7 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Conference Publications
-<ol start="2">
+<ol start="3">
 <li>R. Kavuluru and <b>A. Rios</b>. Automatic Assignment of Non-Leaf Medical Subject Headings to Biomedical Articles. Paper to be presented at: AMIA 2015. Proceedings of the American Medical Informatics Association annual symposium; 2015 November 14-18; San Francisco, CA. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765689/pdf/2247586.pdf">pdf</a>]</li>
 <li><b>A. Rios</b> and R. Kavuluru. Analyzing the Moving Parts of a Large-Scale Multi-Label Text Classication Pipeline: Experiences in Indexing Biomedical Articles. Paper presented at: ICHI 2015. Proceedings of the IEEE International Conference on Healthcare Informatics; 2015 Oct 21-23; Dallas, TX. (<b><font color="red">Best Paper Finalist</font></b> <i>the system described in the paper also placed 2nd in the 2nd batch of BioASQ 2015</i>) [<a href="https://pdfs.semanticscholar.org/5223/3f3eaa85c94fb18b2df81e4fda06ecc5e894.pdf">pdf</a>]</li>
 <li><b>A. Rios</b> and R. Kavuluru. Convolutional Neural Networks for Biomedical Text Classication: Application in Indexing Biomedical Articles. Paper presented at: ACM-BCB 2015. Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics; 2015 September 09-12; Atlanta, GA. [<a href="https://pdfs.semanticscholar.org/2866/9e91f56ac52ab4978150093c2b2662283986.pdf">pdf</a>]</li>
@@ -20,12 +20,12 @@ permalink: /publications/
 
 
 ## Peer-reviewed Workshop Publications
-<ol start="7">
+<ol start="8">
 <li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
 </ol>
 
 ## Peer-reviewed Posters
-<ol start="8">
+<ol start="9">
 <li>R. Kavuluru and <b>A. Rios</b>. A Knowledge-Based Collaborative Clinical Case Mining Framework. Poster session presented at: AMIA 2014. Proceedings of the American Medical Informatics Association (AMIA) annual symposium; 2014 November 15-19; Washington, DC. (<b><font color="red">Distinguished Poster Nomination</font></b>) [<a href="https://knowledge.amia.org/56638-amia-1.1540970/t-005-1.1543914/f-005-1.1543915/a-389-1.1544504/an-389-1.1544505?timeStamp=1490724218726">pdf</a>]</li>
 </ol>
 
