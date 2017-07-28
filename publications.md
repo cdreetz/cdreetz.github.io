@@ -21,16 +21,16 @@ permalink: /publications/
 
 ## Peer-reviewed Workshop Publications
 <ol start="8">
+<li> R. Kavuluru., <b>A. Rios</b>, and T. Tran Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks. To be presented at: THKDM 2017. International Workshop on Healthcare Knowledge Discovery and Management; 2017 August 23-26; Park City, Utah. [pdf]</li>
 <li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
 </ol>
 
 ## Peer-reviewed Posters
-<ol start="9">
+<ol start="10">
 <li>R. Kavuluru and <b>A. Rios</b>. A Knowledge-Based Collaborative Clinical Case Mining Framework. Poster session presented at: AMIA 2014. Proceedings of the American Medical Informatics Association (AMIA) annual symposium; 2014 November 15-19; Washington, DC. (<b><font color="red">Distinguished Poster Nomination</font></b>) [<a href="https://knowledge.amia.org/56638-amia-1.1540970/t-005-1.1543914/f-005-1.1543915/a-389-1.1544504/an-389-1.1544505?timeStamp=1490724218726">pdf</a>]</li>
 </ol>
 
 ## Work in Progress
-<ol start="10">
+<ol start="11">
 <li><b>A. Rios</b> and R. Kavuluru. Transfer Learning with Convolutional Neural Networks for Biomedical Text Classification: From MeSH Heading Prediction to Diagnosis Code Assignment. To be submitted to: Artificial Intelligence in Medicine (AIIM)</li>
-<li>R. Kavuluru and <b>A. Rios</b>. Extracting Drug-Drug Interactions from Text using Recurrent Neural Networks. <i>In Progress</i></li>
 </ol>
