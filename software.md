@@ -4,6 +4,8 @@ title: Software
 permalink: /software/
 ---
 
+**Other Projects**: [Github](https://github.com/AnthonyMRios)
+
 <div class="coolBorder">
 	<div style="float: left;margin-right:10px;">
 	<a class="softLink" href="https://github.com/AnthonyMRios/pymetamap"><img src="/images/pymetamap.png" width="250" class="softimg"></a>
