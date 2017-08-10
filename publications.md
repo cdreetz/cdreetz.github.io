@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Other Pagels: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony)
+Other Pages: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony)
 ## Peer-reviewed Journal Publications
 <ol>
 <li><b>A. Rios</b>, and R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (2017). [<a href="http://www.sciencedirect.com/science/article/pii/S153204641730103X">link</a>]</li>
