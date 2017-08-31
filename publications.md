@@ -23,7 +23,7 @@ permalink: /publications/
 
 ## Peer-reviewed Workshop Publications
 <ol start="8">
-<li> R. Kavuluru., <b>A. Rios</b>, and T. Tran. Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks. To be presented at: THKDM 2017. International Workshop on Healthcare Knowledge Discovery and Management; 2017 August 23-26; Park City, Utah. [pdf]</li>
+<li> R. Kavuluru, <b>A. Rios</b>, and T. Tran, Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks, Paper presented at: Fifth IEEE International Conference on Healthcare Informatics, Workshop on Healthcare Knowledge Discovery and Management (ICHI 2017)  [pdf]</li>
 <li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
 </ol>
 
