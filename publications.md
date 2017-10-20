@@ -23,12 +23,13 @@ permalink: /publications/
 
 ## Peer-reviewed Workshop Publications
 <ol start="8">
+<li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu, Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models, Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017).</li>
 <li> R. Kavuluru, <b>A. Rios</b>, and T. Tran, Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks, Paper presented at: Fifth IEEE International Conference on Healthcare Informatics, Workshop on Healthcare Knowledge Discovery and Management (ICHI 2017)  [pdf]</li>
 <li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
 </ol>
 
 ## Peer-reviewed Posters
-<ol start="10">
+<ol start="11">
 <li>R. Kavuluru and <b>A. Rios</b>. A Knowledge-Based Collaborative Clinical Case Mining Framework. Poster session presented at: AMIA 2014. Proceedings of the American Medical Informatics Association (AMIA) annual symposium; 2014 November 15-19; Washington, DC. (<b><font color="red">Distinguished Poster Nomination</font></b>) [<a href="https://knowledge.amia.org/56638-amia-1.1540970/t-005-1.1543914/f-005-1.1543915/a-389-1.1544504/an-389-1.1544505?timeStamp=1490724218726">pdf</a>]</li>
 </ol>
 
