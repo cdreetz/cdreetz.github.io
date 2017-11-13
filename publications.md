@@ -23,7 +23,7 @@ permalink: /publications/
 
 ## Peer-reviewed Workshop Publications
 <ol start="8">
-<li>S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru, Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter, Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017. [<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a></li>
+<li>S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru, Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter, Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017. [<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a>]</li>
 <li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu, Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models, Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017).</li>
 <li> R. Kavuluru, <b>A. Rios</b>, and T. Tran, Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks, Paper presented at: Fifth IEEE International Conference on Healthcare Informatics, Workshop on Healthcare Knowledge Discovery and Management (ICHI 2017)  [pdf]</li>
 <li><b>A. Rios</b>, R. Kavuluru. Ordinal Convolutional Neural Networks for RDoc Classification. Paper presented at: 2016 CEGS N-GRID Shared-Tasks and Workshop on Challenges in Natural Language Processing for Clinical Data; 2016 November 18; Chicago, IL. [pdf]</li>
