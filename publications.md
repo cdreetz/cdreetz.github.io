@@ -7,12 +7,13 @@ permalink: /publications/
 
 ## Peer-reviewed Journal Publications
 <ol>
+<li><b>A. Rios</b>, and R. Kavuluru. Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation. Bioinformatics (2018). [link]</li>
 <li><b>A. Rios</b>, and R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (2017). [<a href="http://www.sciencedirect.com/science/article/pii/S153204641730103X">link</a>]</li>
 <li>R. Kavuluru, <b>A. Rios</b>, and Y. Lu. An Empirical Evaluation of Supervised Learning Approaches in Assigning Diagnosis Codes to Electronic Medical Records. Artificial Intelligence in Medicine, Volume 65, Issue 2; 2015 May. [<a href="https://pdfs.semanticscholar.org/6a4b/00b70a37f577a99640fc643c2177675db1fd.pdf">pdf</a>]</li>
 </ol>
 
 ## Peer-reviewed Conference Publications
-<ol start="3">
+<ol start="4">
 <li><b>A. Rios</b> and R. Kavuluru. EMR Coding with Semi-Parametric Multi-Head Matching Networks. To appear: NAACL HLT 2018. 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.</li>
 <li>R. Kavuluru and <b>A. Rios</b>. Automatic Assignment of Non-Leaf Medical Subject Headings to Biomedical Articles. Paper to be presented at: AMIA 2015. Proceedings of the American Medical Informatics Association annual symposium; 2015 November 14-18; San Francisco, CA. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765689/pdf/2247586.pdf">pdf</a>]</li>
 <li><b>A. Rios</b> and R. Kavuluru. Analyzing the Moving Parts of a Large-Scale Multi-Label Text Classication Pipeline: Experiences in Indexing Biomedical Articles. Paper presented at: ICHI 2015. Proceedings of the IEEE International Conference on Healthcare Informatics; 2015 Oct 21-23; Dallas, TX. (<b><font color="red">Best Paper Finalist</font></b> <i>the system described in the paper also placed 2nd in the 2nd batch of BioASQ 2015</i>) [<a href="https://pdfs.semanticscholar.org/5223/3f3eaa85c94fb18b2df81e4fda06ecc5e894.pdf">pdf</a>]</li>
@@ -23,7 +24,7 @@ permalink: /publications/
 
 
 ## Peer-reviewed Workshop Publications
-<ol start="9">
+<ol start="10">
 <li>S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru, Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter, Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017. [<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a>]</li>
 <li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu, Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models, Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017). [<a href="http://www.biocreative.org/media/store/files/2017/ProceedingsBCVI_v1.pdf">pdf</a>]</li>
 <li> R. Kavuluru, <b>A. Rios</b>, and T. Tran, Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks, Paper presented at: Fifth IEEE International Conference on Healthcare Informatics, Workshop on Healthcare Knowledge Discovery and Management (ICHI 2017)  [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639883/pdf/nihms907942.pdf">pdf</a>]</li>
@@ -31,6 +32,6 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Posters
-<ol start="13">
+<ol start="14">
 <li>R. Kavuluru, <b>A. Rios</b>, Brandon Kulengowski, and Patrick McNamara. A Knowledge-Based Collaborative Clinical Case Mining Framework. Poster session presented at: AMIA 2014. Proceedings of the American Medical Informatics Association (AMIA) annual symposium; 2014 November 15-19; Washington, DC. (<b><font color="red">Distinguished Poster Nomination</font></b>) [<a href="https://knowledge.amia.org/56638-amia-1.1540970/t-005-1.1543914/f-005-1.1543915/a-389-1.1544504/an-389-1.1544505?timeStamp=1490724218726">pdf</a>]</li>
 </ol>
