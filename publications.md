@@ -32,6 +32,6 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Posters
-<ol start="15">
+<ol start="14">
 <li>R. Kavuluru, <b>A. Rios</b>, Brandon Kulengowski, and Patrick McNamara. A Knowledge-Based Collaborative Clinical Case Mining Framework. Poster session presented at: AMIA 2014. Proceedings of the American Medical Informatics Association (AMIA) annual symposium; 2014 November 15-19; Washington, DC. (<b><font color="red">Distinguished Poster Nomination</font></b>) [<a href="https://knowledge.amia.org/56638-amia-1.1540970/t-005-1.1543914/f-005-1.1543915/a-389-1.1544504/an-389-1.1544505?timeStamp=1490724218726">pdf</a>]</li>
 </ol>
