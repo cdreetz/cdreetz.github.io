@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## Peer-reviewed Journal Publications
 <ol>
-<li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, Z. Lu. Extracting chemical-protein relations with ensembles of SVM and deep learning models. Database (2018). [link]
+<li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, Z. Lu. Extracting chemical-protein relations with ensembles of SVM and deep learning models. Database (2018). [link]</li>
 <li><b>A. Rios</b>, and R. Kavuluru. Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation. Bioinformatics (2018). [<a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty190/4953706?redirectedFrom=PDF">link</a>][<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/neuraAdvDom.pdf">pdf</a>][<a href="https://github.com/AnthonyMRios/adversarial-relation-classification">code</a>]</li>
 <li><b>A. Rios</b>, and R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (2017). [<a href="http://www.sciencedirect.com/science/article/pii/S153204641730103X">link</a>][<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/rdoc-rios-jbi-17.pdf">preprint</a>]</li>
 <li>R. Kavuluru, <b>A. Rios</b>, and Y. Lu. An Empirical Evaluation of Supervised Learning Approaches in Assigning Diagnosis Codes to Electronic Medical Records. Artificial Intelligence in Medicine, Volume 65, Issue 2; 2015 May. [<a href="https://www.sciencedirect.com/science/article/pii/S0933365715000482">link</a>][<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/aimed-ichi-15.pdf">preprint</a>]</li>
