@@ -4,9 +4,9 @@ email: anthonymrios@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anthonymrios.net" # the base hostname & protocol for your site
-twitter_username: anthonymrios
-github_username: anthonymrios
-linkedin_username: anthonyrios0
+twitter_username:
+github_username:
+linkedin_username:
 
 # Build settings
 markdown: kramdown
