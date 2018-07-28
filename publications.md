@@ -7,6 +7,7 @@ permalink: /publications/
 
 ## Peer-reviewed Journal Publications
 <ol>
+<li>A. Sarker, M. Belousov, J. Friedrichs, K. Hakala, S. Kiritchenko, F Mehryary, S Han, T. Tran, <b>A. Rios</b>, R. Kavuluru, B. de Bruijn, F. Ginter4, D. Mahata, S. M. Mohammad, G. Nenadic, G. Gonzalez-Hernandez. Data and systems for medication-related text classification and concept normalization from Twitter: Insights from the Social Media Mining for Health (SMM4H) 2017 shared task. JAMIA. 2018 [link]</li>
 <li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu. Extracting chemical-protein relations with ensembles of SVM and deep learning models. Database (2018). [<a href="https://doi.org/10.1093/database/bay073">link</a>]</li>
 <li><b>A. Rios</b>, R. Kavuluru, and Z. Lu. Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation. Bioinformatics (2018). [<a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty190/4953706?redirectedFrom=PDF">link</a>][<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/neuraAdvDom.pdf">pdf</a>][<a href="https://github.com/AnthonyMRios/adversarial-relation-classification">code</a>]</li>
 <li><b>A. Rios</b>, and R. Kavuluru. Ordinal Convolutional Neural Networks for Predicting RDoC Positive Valence Psychiatric Symptom Severity Scores. Journal of Biomedical Informatics (2017). [<a href="http://www.sciencedirect.com/science/article/pii/S153204641730103X">link</a>][<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/rdoc-rios-jbi-17.pdf">preprint</a>]</li>
