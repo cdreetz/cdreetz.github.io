@@ -34,3 +34,6 @@ permalink: /publications/
 <li>Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu, Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models, Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017). [<a href="http://www.biocreative.org/media/store/files/2017/ProceedingsBCVI_v1.pdf">pdf</a>][<a href="https://arxiv.org/pdf/1802.01255.pdf">preprint</a>]</li>
 <li> R. Kavuluru, <b>A. Rios</b>, and T. Tran, Extracting Drug-Drug Interactions with Word and Character-Level Recurrent Neural Networks, Paper presented at: Fifth IEEE International Conference on Healthcare Informatics, Workshop on Healthcare Knowledge Discovery and Management (ICHI 2017)  [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639883/pdf/nihms907942.pdf">pdf</a>][<a href="https://github.com/AnthonyMRios/relation-extraction-rnn">code</a>]</li>
 </ol>
+
+## Dissertation
+<b>A. Rios</b>. Deep Neural Networks for Multi-Label Text Classification: Application to Coding Electronic Medical Records. University of Kentucky. [<a href="https://uknowledge.uky.edu/cs_etds/71/">link</a>]
