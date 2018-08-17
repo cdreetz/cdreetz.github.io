@@ -15,7 +15,7 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Conference Publications
-<ol start="6">
+<ol>
 <li><b>Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces</b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>To appear: EMNLP 2018. Conference on Empirical Methods in Natural Language Processing.</i> [pdf]</li><br />
 <li><b>EMR Coding with Semi-Parametric Multi-Head Matching Networks</b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers). Vol. 1. 2018.</i> [<a href="http://aclweb.org/anthology/N18-1189">pdf</a>][<a href="https://github.com/AnthonyMRios/med-match-cnn">code</a>]</li><br />
 <li><b>Automatic Assignment of Non-Leaf Medical Subject Headings to Biomedical Articles</b><br />R. Kavuluru and <b>A. Rios</b><br /><i>AMIA Annual Symposium Proceedings. Vol. 2015.</i> [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765689/pdf/2247586.pdf">pdf</a>]</li><br />
@@ -28,7 +28,7 @@ permalink: /publications/
 
 
 ## Peer-reviewed Workshop Publications
-<ol start="14">
+<ol>
 <li><b>Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>In Fifth Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych) 2018.</i> [<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
 <li><b>Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter</b><br />S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru<br /><i>Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017.</i> [<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a>]</li><br />
 <li><b>Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models</b><br />Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu<br /><i>Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017).</i> [<a href="http://www.biocreative.org/media/store/files/2017/ProceedingsBCVI_v1.pdf">pdf</a>][<a href="https://arxiv.org/pdf/1802.01255.pdf">preprint</a>]</li><br />
