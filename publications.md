@@ -15,6 +15,8 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Conference Publications
+For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing and computer vision.
+
 <ol>
 <li><b>Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces</b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>To appear: EMNLP 2018. Conference on Empirical Methods in Natural Language Processing.</i><br />[pdf]</li><br />
 <li><b>EMR Coding with Semi-Parametric Multi-Head Matching Networks</b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers). Vol. 1. 2018.</i><br />[<a href="http://aclweb.org/anthology/N18-1189">pdf</a>][<a href="https://github.com/AnthonyMRios/med-match-cnn">code</a>]</li><br />
