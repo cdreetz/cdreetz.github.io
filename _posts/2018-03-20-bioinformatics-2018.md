@@ -20,6 +20,7 @@ Creating large datasets for biomedical relation classification can be prohibitiv
 <div style="text-align:center"><img src="/images/bioinformatics-2018-method.png" /></div>
 
 <br />
+Test
 
 {% highlight TeX %}
 @article{doi:10.1093/bioinformatics/bty190,
