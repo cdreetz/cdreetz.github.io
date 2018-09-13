@@ -19,6 +19,7 @@ Creating large datasets for biomedical relation classification can be prohibitiv
 
 <div style="text-align:center"><img src="/images/bioinformatics-2018-method.png" /></div>
 
+
 ```@article{doi:10.1093/bioinformatics/bty190,
 author = {Rios, Anthony and Kavuluru, Ramakanth and Lu, Zhiyong},
 title = {Generalizing biomedical relation classification with neural adversarial domain adaptation},
@@ -28,4 +29,5 @@ number = {17},
 pages = {2973-2981},
 year = {2018},
 doi = {10.1093/bioinformatics/bty190},
-}```
+}
+```
