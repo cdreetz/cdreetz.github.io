@@ -31,5 +31,7 @@ number = {17},
 pages = {2973-2981},
 year = {2018},
 doi = {10.1093/bioinformatics/bty190},
+URL = {http://dx.doi.org/10.1093/bioinformatics/bty190},
+eprint = {/oup/backfile/content_public/journal/bioinformatics/34/17/10.1093_bioinformatics_bty190/2/bty190.pdf}
 }
 {% endhighlight %}
