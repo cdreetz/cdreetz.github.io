@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generalizing biomedical relation classification with neural adversarial domain adaptation"
-date:   2017-03-10 21:55:55 +0200
+date:   2018-03-10 21:55:55 +0200
 author: "Anthony Rios"
 categories: Papers
 ---
