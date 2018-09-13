@@ -18,3 +18,14 @@ Creating large datasets for biomedical relation classification can be prohibitiv
 [<a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty190/4953706?redirectedFrom=PDF">Link</a>] [<a href="http://protocols.netlab.uky.edu/~rvkavu2/research/neuraAdvDom.pdf">PDF</a>] [<a href="https://github.com/AnthonyMRios/adversarial-relation-classification">Code</a>]
 
 <div style="text-align:center"><img src="/images/bioinformatics-2018-method.png" /></div>
+
+```@article{doi:10.1093/bioinformatics/bty190,
+author = {Rios, Anthony and Kavuluru, Ramakanth and Lu, Zhiyong},
+title = {Generalizing biomedical relation classification with neural adversarial domain adaptation},
+journal = {Bioinformatics},
+volume = {34},
+number = {17},
+pages = {2973-2981},
+year = {2018},
+doi = {10.1093/bioinformatics/bty190},
+}```
