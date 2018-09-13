@@ -34,4 +34,4 @@ For computer science publication venues, conference proceedings are highly selec
 
 
 ## Dissertation
-<b>Deep Neural Networks for Multi-Label Text Classification: Application to Coding Electronic Medical Records</b><br /><b>A. Rios</b><br /><i>University of Kentucky.</i><br />[<a href="https://uknowledge.uky.edu/cs_etds/71/">link</a>]
+<b><a href="http://anthonyrios.net/blog/2018/08/dissertation">Deep Neural Networks for Multi-Label Text Classification: Application to Coding Electronic Medical Records</a></b><br /><b>A. Rios</b><br /><i>University of Kentucky.</i><br />[<a href="https://uknowledge.uky.edu/cs_etds/71/">link</a>]
