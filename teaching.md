@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- Data Foundations (2018 Fall) at the University of Texas at San Antonio
+- <b>Data Foundations</b> (2018 Fall) at the University of Texas at San Antonio
