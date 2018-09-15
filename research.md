@@ -4,9 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-My main research interest include
+## What do I do?
+Broadly speaking, my primary research interests involve biomedical and social applications of natural language processing.
 
-1. Low-resource biomedical natural language processing.
-   * test
-2. Prejudice
-   * test
+## Bio? Medical? Natural language processing?
+Language shapes the world we live in. Information is shared among individuals through verbal and written communication.
