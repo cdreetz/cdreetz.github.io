@@ -6,6 +6,10 @@ author: "Anthony Rios"
 categories: Papers
 ---
 
+Anthony Rios.
+
+University of Kentucky.
+
 ## Abstract:
 Coding Electronic Medical Records (EMRs) with diagnosis and procedure codes is an essential task for billing, secondary data analyses, and monitoring health trends. Both speed and accuracy of coding are critical. While coding errors could lead to more patient-side financial burden and misinterpretation of a patient’s well-being, timely coding is also needed to avoid backlogs and additional costs for the healthcare facility. Therefore, it is necessary to develop automated diagnosis and procedure code recommendation methods that can be used by professional medical coders.
 
