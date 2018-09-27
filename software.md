@@ -7,8 +7,8 @@ permalink: /software/
 **Other Projects**: [Github](https://github.com/AnthonyMRios)
 
 <ul>
-<li><a href="https://github.com/AnthonyMRios/pymetamap"><b>PyMetaMap</b></a><br />Python interface for the widely used named entity recognition tool (MetaMap) by the National Library of Medicine.<br />[code] [paper]</li><br />
-<li><a href="https://github.com/AnthonyMRios/leml"><b>LEML</b></a><br />Python package for a matrix factorization-based method for extreme mulit-label classification.</li><br />
-<li><a href="https://github.com/AnthonyMRios/pyclausie"><b>pyClausIE</b></a><br />Python interface for the OpenIE tool ClausIE.<br />[code] [paper]</li><br />
-<li><a href="https://github.com/AnthonyMRios/adversarial-relation-classification"><b>advRelCNN</b></a><br />Python package including a method for unsupervised domain adaptation for relation classification.<br />[code] [paper]</li>
+<li><b>PyMetaMap</b><br />Python interface for the widely used named entity recognition tool (MetaMap) by the National Library of Medicine.<br />[<a href="https://github.com/AnthonyMRios/pymetamap">code</a>] [paper]</li><br />
+<li><b>LEML</b><br />Python package for a matrix factorization-based method for extreme mulit-label classification.<br />[<a href="https://github.com/AnthonyMRios/leml">code</a> [paper]</li><br />
+<li><b>pyClausIE</b><br />Python interface for the OpenIE tool ClausIE.<br />[<a href="https://github.com/AnthonyMRios/pyclausie">code</a>] [paper]</li><br />
+<li><b>advRelCNN</b><br />Python package including a method for unsupervised domain adaptation for relation classification.<br />[<a href="https://github.com/AnthonyMRios/adversarial-relation-classification">code</a>] [paper]</li>
 </ul>
