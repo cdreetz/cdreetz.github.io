@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Categories
+permalink: /categories/
 ---
 
 <div class="blog list">
