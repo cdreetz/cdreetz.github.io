@@ -7,7 +7,17 @@ url: "http://anthonymrios.net" # the base hostname & protocol for your site
 twitter_username: anthonymrios
 github_username: AnthonyMRios
 linkedin_username: anthonyrios0
-category-list: [Papers, Software]
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 # Build settings
 markdown: kramdown
