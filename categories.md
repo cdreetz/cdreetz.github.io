@@ -13,4 +13,3 @@ title: Categories
     </ul>
   </li>
 {% endfor %}
-</ul>
