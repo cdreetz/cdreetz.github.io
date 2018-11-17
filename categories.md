@@ -5,9 +5,10 @@ permalink: /categories/
 ---
 
 <div class="blog list">
-    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
+    <h1>Filed Under <small>#{{ category | first }}</small></h1>
 
-    {% for post in site.categories[page.tag] %}
-        {% include post_preview.html %}
-    {% endfor %}
+	{% for category in site.categories %}
+	    <div class="categories-title"><a href="/tags/#{{ category | first }}">{{ category | first }}</a></div>   
+	{% endfor %}
+
 </div>
