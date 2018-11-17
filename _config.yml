@@ -7,18 +7,13 @@ url: "http://anthonymrios.net" # the base hostname & protocol for your site
 twitter_username: anthonymrios
 github_username: AnthonyMRios
 linkedin_username: anthonyrios0
-collections:
-  category:
-    output: true
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
+- scope:
+    path: ''
+    type: categories
+  values:
+    layout: category
 
 collections:
   categories:
