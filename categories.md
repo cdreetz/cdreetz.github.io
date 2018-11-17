@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Categories
-permalink: /categories/
 ---
 
-<div class="blog list">
-    <h1>Filed Under <small>#{{ category | first }}</small></h1>
-
-	{% for category in site.categories %}
-	    <div class="categories-title"><a href="/tags/#{{ category | first }}">{{ category | first }}</a></div>   
-	{% endfor %}
-
-</div>
+<h1>Posts tagged {{ page.slug }}</h1>
+<ol>
+  {% for post in site.tags[page.slug] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ol>
