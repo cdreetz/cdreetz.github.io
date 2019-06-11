@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-**Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/)
+**Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
 ## Peer-reviewed Journal Publications
 <ol>
