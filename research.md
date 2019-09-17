@@ -21,6 +21,7 @@ Language shapes the world we live in. Information is shared among individuals th
 Given the abundance of textual communication online, social problems can now be studied using large-scale NLP methods. Currently, I’m interested in understanding prejudice on social media, offensive language, and analyzing/classifying troll behavior.
 
 <ol>
+<li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
 <li><b>Complex contagions of information diffusion across social networking platforms</b><br />R. Xiong, Z. Liu, K-K R. Choo, and <b>A. Rios</b><br /><i>AMCIS 2019. Americas Conference on Information Systems.</i><br />[<a href="https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/22/">link</a>][<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1396&context=amcis2019">pdf</a>]</li><br />
 </ol>
 
