@@ -19,7 +19,7 @@ permalink: /publications/
 ## Peer-reviewed Conference Publications
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
-<ol start=8>
+<ol start="8">
 <li><b>Complex contagions of information diffusion across social networking platforms</b><br />R. Xiong, Z. Liu, K-K R. Choo, and <b>A. Rios</b><br /><i>AMCIS 2019. Americas Conference on Information Systems.</i><br />[<a href="https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/22/">link</a>][<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1396&context=amcis2019">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/08/emnlp-2018">Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces</a></b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>EMNLP 2018. Conference on Empirical Methods in Natural Language Processing.</i><br />[<a href="http://aclweb.org/anthology/D18-1352">pdf</a>][<a href="https://anthonyrios.net/other/emnlp2018.pdf">preprint</a>][<a href="https://github.com/AnthonyMRios/multi-label-zero-shot">code</a>][<a href="https://vimeo.com/305948835">video</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/naacl">EMR Coding with Semi-Parametric Multi-Head Matching Networks</a></b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers) (NAACL). Vol. 1. 2018.</i><br />[<a href="http://aclweb.org/anthology/N18-1189">pdf</a>][<a href="https://anthonyrios.net/other/naaclhlt2018.pdf">preprint</a>][<a href="https://github.com/AnthonyMRios/med-match-cnn">code</a>]</li><br />
@@ -33,7 +33,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 
 ## Peer-reviewed Workshop Publications
-<ol start=17>
+<ol start="17">
 <li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/clpsych">Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</a></b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>In Fifth Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych) 2018.</i><br />[<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2017/11/smmh">Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter</a></b><br />S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru<br /><i>Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017.</i><br />[<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a>]</li><br />
