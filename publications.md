@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
+
+
 ## Peer-reviewed Journal Publications
 <ol>
 <li><b>Cross-registry neural domain adaptation to extract mutational test results from pathology reports</b><br /><b>A. Rios</b>, E.B. Durbin, I. Hands, S.M. Arnold, , D. Shah, S.M. Schwartz,  B.H. Goulart and R. Kavuluru<br /><i>Journal of Biomedical Informatics, 97, 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S1532046419301868">link</a>]</li><br />
@@ -34,8 +36,10 @@ For computer science publication venues, conference proceedings are highly selec
 
 
 ## Peer-reviewed Workshop Publications
+* is used to mark research done by students under my supervision.
+
 <ol start="18">
-<li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
+<li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />*N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/clpsych">Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</a></b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>In Fifth Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych) 2018.</i><br />[<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2017/11/smmh">Team UKNLP: Detecting ADRs, Classifying Medication In-take Messages, and Normalizing ADR Mentions on Twitter</a></b><br />S. Han, T. Tran, <b>A. Rios</b>, and R. Kavuluru<br /><i>Proceedings of the 2nd Social Media Mining for Health Applications workshop at AMIA 2017.</i><br />[<a href="https://healthlanguageprocessing.files.wordpress.com/2017/10/sharedtask_uknlp.pdf">pdf</a>]</li><br />
 <li><b>Chemical-Protein Relation Extraction with Ensembles of SVM, CNN, and RNN Models</b><br />Y. Peng, <b>A. Rios</b>, R. Kavuluru, and Z. Lu<br /><i>Proceedings of BioCreative VI workshop, Task 5 on text mining chemical-protein interactions (2017).</i><br />[<a href="http://www.biocreative.org/media/store/files/2017/ProceedingsBCVI_v1.pdf">pdf</a>][<a href="https://arxiv.org/pdf/1802.01255.pdf">preprint</a>]</li><br />
