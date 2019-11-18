@@ -36,7 +36,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 
 ## Peer-reviewed Workshop Publications
-* is used to mark research done by students under my supervision.
+"*" is used to mark research done by students under my supervision.
 
 <ol start="18">
 <li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />*N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
