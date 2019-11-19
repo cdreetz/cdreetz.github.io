@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
-
+"*" is used to mark research done by students under my supervision.
 
 ## Peer-reviewed Journal Publications
 <ol>
@@ -36,7 +36,6 @@ For computer science publication venues, conference proceedings are highly selec
 
 
 ## Peer-reviewed Workshop Publications
-"*" is used to mark research done by students under my supervision.
 
 <ol start="18">
 <li><b>How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</b><br />*N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>In EMNLP Workshop on NLP4IF: Censorship, Disinformation, and Propaganda 2019.</i><br /></li><br />
