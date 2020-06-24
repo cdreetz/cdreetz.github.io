@@ -6,7 +6,7 @@ permalink: /publications/
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
 
-## Pre-Prints
+## Preprints
 <ol>
 <li><b>The Risk of Racial Bias while Tracking Virus-Related Content on Social Media using Machine Learning</b><br />B. Lwowski and <b>A. Rios</b><br /><i>Under Review.</i><br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>]</li><br />
 </ol>
