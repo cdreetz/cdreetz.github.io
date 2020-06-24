@@ -12,7 +12,7 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Journal Publications
-<ol>
+<ol start="2">
 <li><b><a href="http://anthonyrios.net/blog/2019/09/jbi">Cross-registry neural domain adaptation to extract mutational test results from pathology reports</a></b><br /><b>A. Rios</b>, E.B. Durbin, I. Hands, S.M. Arnold, , D. Shah, S.M. Schwartz,  B.H. Goulart and R. Kavuluru<br /><i>Journal of Biomedical Informatics, 97, 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S1532046419301868">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/04/aimed">Neural Transfer Learning for Assigning Diagnosis Codes to EMRs</a></b><br /><b>A. Rios</b>, R. Kavuluru<br /><i>Artificial Intelligence in Medicine. 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S0933365718304378">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/10/jamia">Data and systems for medication-related text classification and concept normalization from Twitter: Insights from the Social Media Mining for Health (SMM4H) 2017 shared task</a></b><br />A. Sarker, M. Belousov, J. Friedrichs, K. Hakala, S. Kiritchenko, F Mehryary, S Han, T. Tran, <b>A. Rios</b>, R. Kavuluru, B. de Bruijn, F. Ginter, D. Mahata, S. M. Mohammad, G. Nenadic, G. Gonzalez-Hernandez<br /><i>Journal of the American Medical Association (JAMIA). 2018.</i><br />[<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy114/5113021">link</a>]</li><br />
@@ -25,7 +25,7 @@ permalink: /publications/
 ## Peer-reviewed Conference Publications
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
-<ol start="8">
+<ol start="9">
 <li><b><a href="http://anthonyrios.net/blog/2020/02/aaai">FuzzE: Fuzzy Fairness Evaluation of Offensive Language Classifiers on African-American English</a></b><br /><b>A. Rios</b><br /><i>To Appear: AAAI 2020. AAAI Conference on Artificial Intelligence.</i><br />[<a href="https://anthonyrios.net/other/rios-aaai2020.pdf">pre-print</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/05/amcis">Complex contagions of information diffusion across social networking platforms</a></b><br />R. Xiong, Z. Liu, K-K R. Choo, and <b>A. Rios</b><br /><i>AMCIS 2019. Americas Conference on Information Systems.</i><br />[<a href="https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/22/">link</a>][<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1396&context=amcis2019">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/08/emnlp-2018">Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces</a></b><br /><b>A. Rios</b> and R. Kavuluru<br /><i>EMNLP 2018. Conference on Empirical Methods in Natural Language Processing.</i><br />[<a href="http://aclweb.org/anthology/D18-1352">pdf</a>][<a href="https://anthonyrios.net/other/emnlp2018.pdf">pre-print</a>][<a href="https://github.com/AnthonyMRios/multi-label-zero-shot">code</a>][<a href="https://vimeo.com/305948835">video</a>]</li><br />
@@ -41,7 +41,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="18">
+<ol start="19">
 <li><b><a href="http://anthonyrios.net/blog/2020/07/bionlp-2020">Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings</a></b><br /><b>A. Rios</b>, R. Joshi, and H. Shin<br /><i>Proceedings of BioNLP, ACL, 2020.</i><br />[<a href="https://anthonyrios.net/other/RiosBioNLP2020.pdf">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/11/emnlp-2019">How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</a></b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>Proceedings of the NLP4IF: Censorship, Disinformation, and Propaganda, EMNLP, 2019.</i><br />[<a href="https://www.aclweb.org/anthology/D19-5003/">pdf</a>][<a href="https://anthonyrios.net/other/nlp4if-emnlp2019.pdf">pre-print</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/clpsych">Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</a></b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>Proceedings of the Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych), NAACL, 2018.</i><br />[<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
