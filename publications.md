@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Preprints
 <ol>
-<li><b>The Risk of Racial Bias while Tracking Virus-Related Content on Social Media using Machine Learning</b><br />B. Lwowski and <b>A. Rios</b><br /><i>Under Review.</i><br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>]</li><br />
+<li><b>The Risk of Racial Bias while Tracking Influenza-Related Content on Social Media using Machine Learning</b><br />B. Lwowski and <b>A. Rios</b><br /><i>Under Review.</i><br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>]</li><br />
 </ol>
 
 ## Peer-reviewed Journal Publications
