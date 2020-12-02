@@ -6,13 +6,9 @@ permalink: /publications/
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
 
-## Preprints
-<ol>
-<li><b>The Risk of Racial Bias while Tracking Influenza-Related Content on Social Media using Machine Learning</b><br />B. Lwowski and <b>A. Rios</b><br /><i>Under Review.</i><br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>]</li><br />
-</ol>
-
 ## Peer-reviewed Journal Publications
-<ol start="2">
+<ol start="1">
+<li><b>The Risk of Racial Bias while Tracking Influenza-Related Content on Social Media using Machine Learning</b><br />B. Lwowski and <b>A. Rios</b><br /><i>Journal of the American Medical Informatics Association (JAMIA), 2020.</i><br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/09/jbi">Cross-registry neural domain adaptation to extract mutational test results from pathology reports</a></b><br /><b>A. Rios</b>, E.B. Durbin, I. Hands, S.M. Arnold, , D. Shah, S.M. Schwartz,  B.H. Goulart and R. Kavuluru<br /><i>Journal of Biomedical Informatics, 97, 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S1532046419301868">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/04/aimed">Neural Transfer Learning for Assigning Diagnosis Codes to EMRs</a></b><br /><b>A. Rios</b>, R. Kavuluru<br /><i>Artificial Intelligence in Medicine. 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S0933365718304378">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/10/jamia">Data and systems for medication-related text classification and concept normalization from Twitter: Insights from the Social Media Mining for Health (SMM4H) 2017 shared task</a></b><br />A. Sarker, M. Belousov, J. Friedrichs, K. Hakala, S. Kiritchenko, F Mehryary, S Han, T. Tran, <b>A. Rios</b>, R. Kavuluru, B. de Bruijn, F. Ginter, D. Mahata, S. M. Mohammad, G. Nenadic, G. Gonzalez-Hernandez<br /><i>Journal of the American Medical Association (JAMIA). 2018.</i><br />[<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy114/5113021">link</a>]</li><br />
