@@ -9,5 +9,7 @@ permalink: /teaching/
 - <b>Data Foundations</b> (2018 Fall, 2019 Spring) at the University of Texas at San Antonio
 - <b>Introduction to Natural Language Processing</b> (2019 Fall) at the University of Texas at San Antonio
 
-## Students
+## Ph.D. Students
+ - Xingmeng Zhao
+ - Paras Bhatt
  - Nayeema Nasrin
