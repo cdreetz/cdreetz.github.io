@@ -22,6 +22,7 @@ permalink: /publications/
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
 <ol start="9">
+<li><b>Detecting Machine-Generated Text by Characterizing Linguistic Accommodation in Human-Machine Interactions</b><br /><b>P. Bhatt</b> and A. Rios<br /><i>To Appear in Findings of ACL, 2021.</i><br /></li><br />
 <li><b>An Empirical Study of the Downstream Reliability of Pre-Trained Word Embeddings </b><br /><b>A. Rios</b> and B. Lwowski<br /><i>COLING 2020. The 28th International Conference on Computational Linguistics.</i><br />[<a href="https://anthonyrios.net/other/rios-coling2020.pdf">preprint</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2020/02/aaai">FuzzE: Fuzzy Fairness Evaluation of Offensive Language Classifiers on African-American English</a></b><br /><b>A. Rios</b><br /><i>AAAI 2020. AAAI Conference on Artificial Intelligence.</i><br />[<a href="https://aaai.org/ojs/index.php/AAAI/article/view/5434/5290">link</a>][<a href="https://anthonyrios.net/other/rios-aaai2020.pdf">preprint</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/05/amcis">Complex contagions of information diffusion across social networking platforms</a></b><br />R. Xiong, Z. Liu, K-K R. Choo, and <b>A. Rios</b><br /><i>AMCIS 2019. Americas Conference on Information Systems.</i><br />[<a href="https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/22/">link</a>][<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1396&context=amcis2019">pdf</a>]</li><br />
@@ -38,7 +39,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="20">
+<ol start="21">
 <li><b><a href="http://anthonyrios.net/blog/2020/07/bionlp-2020">Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings</a></b><br /><b>A. Rios</b>, R. Joshi, and H. Shin<br /><i>Proceedings of BioNLP, ACL, 2020.</i><br />[<a href="https://anthonyrios.net/other/RiosBioNLP2020.pdf">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/11/emnlp-2019">How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</a></b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>Proceedings of the NLP4IF: Censorship, Disinformation, and Propaganda, EMNLP, 2019.</i><br />[<a href="https://www.aclweb.org/anthology/D19-5003/">pdf</a>][<a href="https://anthonyrios.net/other/nlp4if-emnlp2019.pdf">preprint</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/clpsych">Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</a></b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>Proceedings of the Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych), NAACL, 2018.</i><br />[<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
