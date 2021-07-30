@@ -21,8 +21,8 @@ Social media platforms, such as Twitter, are used for many health-related applic
 
 ### Funding
 
-**CRII: SCH: A Computational Framework for Fair Public Health-Related Decisions.**
-National Science Foundation. CISE: IIS. 04/01/2020-03/31/2022. \$174,797
+**CRII: SCH: A Computational Framework for Fair Public Health-Related Decisions.**<br/>
+National Science Foundation. CISE: IIS. 04/01/2020-03/31/2022. \$174,797<br/>
 PI: *Anthony Rios*
 
 
@@ -34,8 +34,8 @@ PI: *Anthony Rios*
 
 
 ### Funding
-**Machine Learning-centric Cyber Threat Intelligence and Hunting for IoT Systems**
-National Security Agency. Cybersecurity Research Innovation Grant. 
+**Machine Learning-centric Cyber Threat Intelligence and Hunting for IoT Systems**<br/>
+National Security Agency. Cybersecurity Research Innovation Grant. \$464,153<br/>
 PI: Anthony Rios Co-PI(s): Glenn Dietrich and Raymond Choo
 
 
