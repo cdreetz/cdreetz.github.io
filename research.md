@@ -35,7 +35,7 @@ PI: *Anthony Rios*
 
 ### Funding
 **Machine Learning-centric Cyber Threat Intelligence and Hunting for IoT Systems**<br/>
-National Security Agency. Cybersecurity Research Innovation Grant. \$464,153<br/>
+National Security Agency. Cybersecurity Research Innovation Grant. 08/01/2021-07/31/2023. \$464,153<br/>
 PI: *Anthony Rios* Co-PI(s): Glenn Dietrich and Raymond Choo
 
 
