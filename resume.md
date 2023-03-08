@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Resume
+permalink: /resume/
 ---
 
 ## What do I do?
