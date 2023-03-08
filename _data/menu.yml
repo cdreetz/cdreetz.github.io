@@ -1,17 +1,8 @@
-- title: "Research"
-  href: "/research/"
+- title: "Resume"
+  href: "/resume/"
 
-- title: "Teaching"
-  href: "/teaching/"
-
-- title: "Publications"
-  href: "/publications/"
-
-- title: "Software"
-  href: "/software/"
+- title: "Community"
+  href: "/community/"
 
 - title: "Contact"
   href: "/contact/"
-
-- title: "Resume"
-  href: "/other/anthony-rios-cv.pdf"
