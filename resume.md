@@ -12,15 +12,16 @@ I like to work with data and learn about data based skills and tools.  Currently
 
 ## Skills acquired over time and applied during projects or work
 
-- <b>Programs and Languages</b> Python, R, SAS, SPSS, SQL
+- <b>Programs and Languages</b> Python, R, SQL, SAS, SPSS
 - <b>Packages</b> Pandas, Numpy, SciPy, Selenium, Ggplot, Caret, Tidyverse
 - <b>DS Concepts </b> Linear/logistic regression, time series
 - <b>DA Concepts </b> Data preprocessing, missing values, repeated values, converting variable types, column/row subsetting, visualizations
 - <b>DA Tools </b> Automated data collection via webdriver
-- <b> ML Tools</b> TensorFlow, PyTorch, Lightning, Weights and Biases
+- <b> ML Tools</b> TensorFlow, PyTorch, Lightning, Transformers, Weights and Biases
 - <b> NLP/LLM Tools</b> HuggingFace Transformers, Mosaic Composer, Langchain
 - <b> NLP/LLM Concepts</b> Sentiment Analysis, Conversational Agents, Agent Tools, Custom Bots
 - <b> CV Concepts</b> Object detection, object classification, object tracking
+- <b> Cloud Services</b> GCP, TPUs, VertexAI; Azure products; Lambda Labs GPU Clusters 
 
 
 ## Skills in progress
@@ -28,6 +29,7 @@ I like to work with data and learn about data based skills and tools.  Currently
 - <b> ML Concepts</b> Production ML data pipeline
 
 ----
+
 
 ## Work experience
 
@@ -40,8 +42,11 @@ I like to work with data and learn about data based skills and tools.  Currently
 
 ## Open source
 
-- <b> HuggingFace </b> - Contribute needed documentation additions and fixes.  As well as contribute key datasets for common tasks, and add new models to the Hub
-- <b> Flyte </b> - Worked alongside key maintainers at SciPy 2023 Conference Sprint Days.  Contributed a new plugin by integrating the model analyzing feature of Weight Watchers into the Flyte platform.
+<b> HuggingFace </b>
+  - Contribute needed documentation additions and fixes.  As well as contribute key datasets for common tasks, and add new models to the Hub
+
+<b> Flyte - SciPy 2023</b> 
+  - Worked alongside key maintainers at SciPy 2023 Conference Sprint Days.  Contributed a new plugin by integrating the model analyzing feature of Weight Watchers into the Flyte platform.
 
 
 ## Recent project work
