@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Extended Resume
 permalink: /resume/
 ---
 
@@ -27,8 +27,21 @@ I like to work with data and learn about data based skills and tools.  Currently
 
 - <b> ML Concepts</b> Production ML data pipeline
 
+----
 
+## Work experience
 
+<b> Business Intelligence Developer - iGrad </b>
+- Complete end to end data projects with Python, from data acquisition, preprocessing, analysis, modeling, and developing tools with both custom and pretrained models
+- Deployed open source NLP machine learning models to create systems for projects including sentiment analysis and machine translation
+- Query from our datawarehouse or othe data sources with SQL/TSQL/KQL
+- Employ Azure products including Azure Data Factory, Pipelines, Cognitive Services, and Azure OpenAI
+- Utlize Microsoft Power BI for creating reports and dashboards to present key data and analysis
+
+## Open source
+
+- <b> HuggingFace </b> - Contribute needed documentation additions and fixes.  As well as contribute key datasets for common tasks, and add new models to the Hub
+- <b> Flyte </b> - Worked alongside key maintainers at SciPy 2023 Conference Sprint Days.  Contributed a new plugin by integrating the model analyzing feature of Weight Watchers into the Flyte platform.
 
 
 ## Recent project work
