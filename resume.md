@@ -31,6 +31,25 @@ I like to work with data and learn about data based skills and tools.  Currently
 ----
 
 
+
+## Project experience
+
+<b> Drive </b>
+- Given 5 driving videos and the respective frame by frame labels of the camera positional pitch and yaw, develop a system to estimate the pitch and yaw of unseen driving videos
+- Conduct initial analysis of data at hand, research pretrained models for camera positional estimation, determine candidate systems with and without DL
+- Develop and tested non DL approach with a combination of OpenCV tools including Canny edge detection and Hough line transform to calculate pitch and yaw with the vanishing point to extrinsic and intrinsic matrix conversions
+- Train a CNNLSTM on labeled videos, reaching a <0.1 MSE on the validation set
+- Perform CNNLSTM training on an A600 Lambda Labs Cloud GPU due to local device limitations
+
+
+<b> Google TPU Research Program </b>
+- Having limited compute resources, and wanting to experiment with the GCP platform, applied for and was granted access to the Google TPU Research Program 
+- Deployed Google VM instances for downloading large data to Goolge Storage including the >100GB ImageNet dataset
+- Experimented with training various large computer vision models with both TPUs and GPUs
+- Collaborated with other HuggingFace contributors on HuggingFace Trainer and Accelerate integration for Google TPUs 
+
+
+
 ## Work experience
 
 <b> Business Intelligence Developer - iGrad </b>
